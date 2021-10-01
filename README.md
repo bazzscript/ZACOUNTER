@@ -49,13 +49,22 @@ Having The Problem Statement and business model in mind, and also that our end u
 
 We decided in using the following technologies
 ## SERVER
-Database : 
+- Database : 
 We will be using the MySQL database to store every company data, because it is very secure, very fast and can handle millions of transactions and thousands of users without them having conflicts with each other.
-
-Framework/Language To Process Data and Implement Server Side Logic : NodeJs/Javascript
-
+- Database Design Pattern:
+- Framework/Language To Process Data and Implement Server Side Logic : NodeJs/Javascript
+- Backend Design Pattern
 
 ## CLIENT
 
 Coming Soon ...
 But to give You an idea, we are considering on using Google Flutter Sdk for Desktop client and Mobile client and React for the Web client.
+
+Desktop
+- Design Pattern
+
+Mobile
+- Design Pattern
+
+Web
+- Design Pattern
