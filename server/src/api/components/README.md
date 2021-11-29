@@ -1,0 +1,1 @@
+Each component has its own routes, controller, model, repository, policies, tests and templates.
