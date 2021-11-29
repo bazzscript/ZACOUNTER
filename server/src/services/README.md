@@ -1,0 +1,1 @@
+This directory contains global services we might need for authorization, sending mails, caching, or helper methods for example.
